@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 
 LABEL org.opencontainers.image.source="https://github.com/getprobo/probo"
 LABEL org.opencontainers.image.licenses="MIT"
